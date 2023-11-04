@@ -1,0 +1,9 @@
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Football\bin\Debug\Football.dll
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Football\bin\Debug\Football.pdb
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Football\bin\Debug\SportBaseClass.dll
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Football\bin\Debug\SportBaseClass.pdb
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Football\obj\Debug\Football.csproj.AssemblyReference.cache
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Football\obj\Debug\Football.csproj.CopyComplete
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Football\obj\Debug\Football.dll
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Football\obj\Debug\Football.pdb

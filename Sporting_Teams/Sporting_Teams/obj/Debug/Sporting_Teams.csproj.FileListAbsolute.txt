@@ -1,0 +1,17 @@
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\bin\Debug\Sporting_Teams.exe.config
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\bin\Debug\Sporting_Teams.exe
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\bin\Debug\Sporting_Teams.pdb
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\bin\Debug\Football.dll
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\bin\Debug\Soccer.dll
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\bin\Debug\SportBaseClass.dll
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\bin\Debug\Football.pdb
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\bin\Debug\Soccer.pdb
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\bin\Debug\SportBaseClass.pdb
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\obj\Debug\Sporting_Teams.csproj.AssemblyReference.cache
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\obj\Debug\Sporting_Teams.SportingTeamsForm.resources
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\obj\Debug\Sporting_Teams.Properties.Resources.resources
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\obj\Debug\Sporting_Teams.csproj.GenerateResource.cache
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\obj\Debug\Sporting_Teams.csproj.CoreCompileInputs.cache
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\obj\Debug\Sporting_Teams.csproj.CopyComplete
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\obj\Debug\Sporting_Teams.exe
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\Sporting_Teams\obj\Debug\Sporting_Teams.pdb

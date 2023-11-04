@@ -1,0 +1,6 @@
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\SportBaseClass\bin\Debug\SportBaseClass.dll
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\SportBaseClass\bin\Debug\SportBaseClass.pdb
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\SportBaseClass\obj\Debug\SportBaseClass.csproj.AssemblyReference.cache
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\SportBaseClass\obj\Debug\SportBaseClass.csproj.CoreCompileInputs.cache
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\SportBaseClass\obj\Debug\SportBaseClass.dll
+C:\Users\midni\OneDrive\Desktop\Sporting_Teams\SportBaseClass\obj\Debug\SportBaseClass.pdb
